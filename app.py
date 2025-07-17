@@ -197,10 +197,10 @@ elif st.session_state.page == "scan":
                 st.markdown(f"""
                     <div class='info-box'>
                         <p><b>🆔 ID :</b> {item['Id']}</p>
-                        <p><b>🎫 Dimensions :</b> {item['Dimensions']}</p>
+                        <p><b>🎫 Dimensions(mètre) :</b> {item['Dimensions']}</p>
                         <p><b>🎨 Couleur :</b> {item['Color']}</p>
                         <p><b>🧵 Besoin en filament :</b> {item['Filament']}</p>
-                        <p><b>💶 Coût :</b> {item['Coût']}</p>
+                        <p><b>💶 Coût(€) :</b> {item['Coût']}</p>
                         <p><b>🧱 Matériau :</b> {item['Material']}</p>
                         <p><b>🕒 Temps d'impression :</b> {item['Printing time']}</p>
                         <p><b>🧵🖨️ Imprimante :</b> {item['Imprimante']}</p>
