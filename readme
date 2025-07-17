@@ -1,0 +1,32 @@
+# 📦 RFID Scan App – ESTP × IAV
+
+Application Streamlit pour le suivi intelligent des modules RFID imprimés en 3D.
+
+## 🎯 Objectifs
+
+- Scanner des codes-barres de modules RFID
+- Afficher les caractéristiques automatiquement
+- Suivre les historiques des scans
+- Exporter les données (CSV, PDF)
+- Visualiser des statistiques (graphiques)
+
+---
+
+## 🖼️ Aperçu
+
+![Aperçu de l’application](https://rfid-scan-app-estp-iav.streamlit.app)
+
+---
+
+## 🛠️ Fonctionnalités
+
+✅ Lecture de code-barres  
+✅ Affichage automatique des données  
+✅ Images par module  
+✅ Historique avec filtres (date, code)  
+✅ Export CSV et PDF  
+✅ Graphique des scans par jour  
+✅ Interface visuelle (logos, fond personnalisé)
+
+---
+
